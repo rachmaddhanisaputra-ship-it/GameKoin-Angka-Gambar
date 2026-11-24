@@ -31,4 +31,3 @@ Pemain diminta memilih salah satu sisi koin, yaitu ANGKA atau GAMBAR. Kemudian k
 - Bahasa pemrograman: C++
 - Library: NCurses
 - Compiler: MinGW GCC
--
